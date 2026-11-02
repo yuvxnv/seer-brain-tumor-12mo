@@ -1,0 +1,8 @@
+# SEER data may not be redistributed (SEER Research Data Agreement)
+data/*
+!data/README.md
+
+.venv/
+__pycache__/
+.claude/
+.DS_Store
